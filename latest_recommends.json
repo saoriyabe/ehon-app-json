@@ -1,101 +1,104 @@
-[
-	{
-		"name": "大ピンチずかん",
-		"image": null,
-		"author": ["鈴木のりたけ"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784097251385,
-		"publisher": "小学館",
-		"publishDate": "2022-2-16"
-	},
-	{
-		"name": "大ピンチずかん2",
-		"image": null,
-		"author": ["鈴木のりたけ"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784097252436,
-		"publisher": "小学館",
-		"publishDate": "2023-11-22"
-	},
-	{
-		"name": "Wピース なさいくん",
-		"image": null,
-		"author": ["中居正広", "劇団ひとり", "古市憲寿"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784838732654,
-		"publisher": "マガジンハウス",
-		"publishDate": "2024-4-19"
-	},
-	{
-		"name": "Wピース のんちゃんびりーくん",
-		"image": null,
-		"author": ["中居正広", "劇団ひとり", "古市憲寿"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784838732661,
-		"publisher": "マガジンハウス",
-		"publishDate": "2024-4-19"
-	},
-	{
-		"name": "きみのことが だいすき",
-		"image": null,
-		"author": ["いぬいさえこ"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784756255525,
-		"publisher": "パイインターナショナル",
-		"publishDate": "2022-2-14"
-	},
-	{
-		"name": "きみのそばに いるよ",
-		"image": null,
-		"author": ["いぬいさえこ"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784756257567,
-		"publisher": "パイインターナショナル",
-		"publishDate": "2023-8-18"
-	},
-	{
-		"name": "だいじ だいじ どーこだ?",
-		"image": null,
-		"author": ["遠見才希子", "川原瑞丸"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784278087000,
-		"publisher": "大泉書店",
-		"publishDate": "2021-7-9"
-	},
-	{
-		"name": "りんごかもしれない",
-		"image": null,
-		"author": ["ヨシタケシンスケ"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784893095626,
-		"publisher": "ブロンズ新社",
-		"publishDate": "2013-4-17"
-	},
-	{
-		"name": "しましまぐるぐる",
-		"image": null,
-		"author": ["柏原晃夫"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784052031113,
-		"publisher": "学研プラス",
-		"publishDate": "2009-4-7"
-	},
-	{
-		"name": "やさいさん",
-		"image": null,
-		"author": ["tupera tupera"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784052032981,
-		"publisher": "学研プラス",
-		"publishDate": "2010-7-20"
-	},
-	{
-		"name": "おべんとうバス",
-		"image": null,
-		"author": ["真珠まりこ"],
-		"categories": ["recommend", "japanese"],
-		"isbn": 9784893252227,
-		"publisher": "ひさかたチャイルド",
-		"publishDate": "2005-12-31"
-	}
-]
+{
+	"version": 1,
+	"books": [
+		{
+			"name": "大ピンチずかん",
+			"image": null,
+			"author": ["鈴木のりたけ"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784097251385,
+			"publisher": "小学館",
+			"publishDate": "2022-2-16"
+		},
+		{
+			"name": "大ピンチずかん2",
+			"image": null,
+			"author": ["鈴木のりたけ"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784097252436,
+			"publisher": "小学館",
+			"publishDate": "2023-11-22"
+		},
+		{
+			"name": "Wピース なさいくん",
+			"image": null,
+			"author": ["中居正広", "劇団ひとり", "古市憲寿"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784838732654,
+			"publisher": "マガジンハウス",
+			"publishDate": "2024-4-19"
+		},
+		{
+			"name": "Wピース のんちゃんびりーくん",
+			"image": null,
+			"author": ["中居正広", "劇団ひとり", "古市憲寿"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784838732661,
+			"publisher": "マガジンハウス",
+			"publishDate": "2024-4-19"
+		},
+		{
+			"name": "きみのことが だいすき",
+			"image": null,
+			"author": ["いぬいさえこ"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784756255525,
+			"publisher": "パイインターナショナル",
+			"publishDate": "2022-2-14"
+		},
+		{
+			"name": "きみのそばに いるよ",
+			"image": null,
+			"author": ["いぬいさえこ"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784756257567,
+			"publisher": "パイインターナショナル",
+			"publishDate": "2023-8-18"
+		},
+		{
+			"name": "だいじ だいじ どーこだ?",
+			"image": null,
+			"author": ["遠見才希子", "川原瑞丸"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784278087000,
+			"publisher": "大泉書店",
+			"publishDate": "2021-7-9"
+		},
+		{
+			"name": "りんごかもしれない",
+			"image": null,
+			"author": ["ヨシタケシンスケ"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784893095626,
+			"publisher": "ブロンズ新社",
+			"publishDate": "2013-4-17"
+		},
+		{
+			"name": "しましまぐるぐる",
+			"image": null,
+			"author": ["柏原晃夫"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784052031113,
+			"publisher": "学研プラス",
+			"publishDate": "2009-4-7"
+		},
+		{
+			"name": "やさいさん",
+			"image": null,
+			"author": ["tupera tupera"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784052032981,
+			"publisher": "学研プラス",
+			"publishDate": "2010-7-20"
+		},
+		{
+			"name": "おべんとうバス",
+			"image": null,
+			"author": ["真珠まりこ"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784893252227,
+			"publisher": "ひさかたチャイルド",
+			"publishDate": "2005-12-31"
+		}
+	]
+}
