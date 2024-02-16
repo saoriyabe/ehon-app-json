@@ -1,5 +1,5 @@
 {
-	"version": 2,
+	"version": 3,
 	"books": [
 		{
 			"name": "大ピンチずかん",
@@ -108,6 +108,15 @@
 			"isbn": 9784074531509,
 			"publisher": "主婦の友社",
 			"publishDate": "2022-10-31"
+		},
+		{
+			"name": "メメント・モリ",
+			"image": null,
+			"author": ["大森 元貴", "大谷 たらふ"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784048970808,
+			"publisher": "KADOKAWA",
+			"publishDate": "2021-9-15"
 		}
 	]
 }
