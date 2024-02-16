@@ -1,5 +1,5 @@
 {
-	"version": 2,
+	"version": 1,
 	"books": [
 		{
 			"name": "大ピンチずかん",
@@ -99,15 +99,6 @@
 			"isbn": 9784893252227,
 			"publisher": "ひさかたチャイルド",
 			"publishDate": "2005-12-31"
-		},
-		{
-			"name": "かっても まけても いいんだよ",
-			"image": null,
-			"author": ["オーレリー・シアン・ショウ・シーヌ"],
-			"categories": ["recommend", "foreign"],
-			"isbn": 9784074531509,
-			"publisher": "主婦の友社",
-			"publishDate": "2022-10-31"
 		}
 	]
 }
