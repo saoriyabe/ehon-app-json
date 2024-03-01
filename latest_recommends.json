@@ -1,5 +1,5 @@
 {
-	"version": 3,
+	"version": 4,
 	"books": [
 		{
 			"name": "大ピンチずかん",
@@ -117,6 +117,15 @@
 			"isbn": 9784048970808,
 			"publisher": "KADOKAWA",
 			"publishDate": "2021-9-15"
+		},
+		{
+			"name": "もいもい",
+			"image": null,
+			"author": ["市原 淳"],
+			"categories": ["recommend", "japanese"],
+			"isbn": 9784799323809,
+			"publisher": "ディスカヴァー・トゥエンティワン",
+			"publishDate": "2018-11-15"
 		}
 	]
 }
